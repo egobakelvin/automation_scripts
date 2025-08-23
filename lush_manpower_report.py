@@ -191,10 +191,10 @@ def main(config):
 if __name__ == "__main__":
     config = {
     "excel_file_path" : r"C:\Users\egoba.kelvin\RPA\lush_data1.xlsx" ,
-    "schema_name" :"A172083",
-    "oracle_password" : "MurbM!yqBpA5t" ,
-    "oracle_host" : "revion-aws-eu-uk-ldb2.revion.com" , 
-    "oracle_port" : "15210" ,
-    "oracle_sid" : "KT" 
+    "schema_name" :"",
+    "oracle_password" : "" ,
+    "oracle_host" : "" , 
+    "oracle_port" : "" ,
+    "oracle_sid" : "" 
     }
     main(config)
